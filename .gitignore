@@ -1,0 +1,12 @@
+photo.py
+detection.py
+*.png
+*.jpg
+*.JPG
+*.json
+*.xlsx
+
+
+numerikal/
+photo/
+.idea/
