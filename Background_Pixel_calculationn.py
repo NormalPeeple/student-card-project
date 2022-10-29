@@ -53,3 +53,5 @@ ax.imshow(background[:, :, ::-1])
 rect_selector = RectangleSelector(
     ax, on_select, drawtype='box', button=[1], spancoords='pixels')
 plt.show()
+
+print("Hello World")
